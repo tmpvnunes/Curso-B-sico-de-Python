@@ -1,0 +1,40 @@
+#String
+nome = "tiago"
+#Double
+altura = 1.80
+#Int
+idade=23
+
+
+print(nome)
+print(altura)
+print(idade)
+
+
+a,b,c = "Pedro", 83, 1.70
+
+print(a)
+print (b)
+print(c)
+
+var =1
+var2 = 2
+print(var  + var2)
+del var
+
+nomeVar = "Joao Pedro da Rocha santos"
+
+print (nomeVar[0:4])
+
+
+lista = ["ricardo",1,"estudandante"]
+
+print(lista[0])
+
+tupla = (1, "Nelson" , 1.92 , "USA")
+
+print(tupla[2])
+
+jogosde2019 = {'nome': "fifa 19", 'estreia': '01-10-2018'}
+
+print(jogosde2019.keys())
